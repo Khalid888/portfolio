@@ -20,6 +20,8 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'XXX');
 
+
+
 /** MySQL database username */
 define('DB_USER', 'XXX');
 
